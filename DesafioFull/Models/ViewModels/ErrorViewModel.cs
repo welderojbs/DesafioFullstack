@@ -1,6 +1,6 @@
 using System;
 
-namespace DesafioFull.Models
+namespace DesafioFull.Models.ViewModels
 {
     public class ErrorViewModel
     {
