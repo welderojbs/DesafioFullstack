@@ -362,4 +362,3 @@ C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\bin\Debug\net461\Syst
 C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\bin\Debug\net461\System.Data.SqlClient.dll
 C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\bin\Debug\net461\System.Interactive.Async.dll
 C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\DesafioFull.csprojAssemblyReference.cache
-C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\Razor\Views\Titulos\Index.cshtml.g.cs

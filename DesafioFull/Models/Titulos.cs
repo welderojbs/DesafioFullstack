@@ -7,7 +7,15 @@ namespace DesafioFull.Models
 {
     public class Titulos
     {
-        public int Id { get; set; }
-        public string Nome { get; set; }
+        public int      Id              { get; set; }
+        public int      NumeroTitulo    { get; set; }
+        public string   Nome            { get; set; }
+        public int      Cpf             { get; set; }
+        public decimal  Juros           { get; set; }
+        public decimal  Multa           { get; set; }
+        public int      NParcela        { get; set; }
+        public string   DataVencimento  { get; set; }
+        public decimal  ValorParc       { get; set; }
+     
     }
 }
