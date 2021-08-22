@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "x1eo6TdFcXnMfVfV1VNjid72+TJ5Aoe7DP8E+33MGtgZVEkgk3sYx/lQ+FaOuG2nEmMlk3OuhijS9KDYu8I3XA==",
+  "dgSpecHash": "RO43zbn1tsksxNr4h/F8BWIVDfmACbp6LM1vXCjRiPtXEDQ3PmUSPOL6I56wQVcnYZ+nu3iibRSddPR29pn6ag==",
   "success": true,
   "projectFilePath": "C:\\Users\\welde\\Desktop\\DesafioFULL\\DesafioFull\\DesafioFull\\DesafioFull.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\welde\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512",
     "C:\\Users\\welde\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",
     "C:\\Users\\welde\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.1.1\\microsoft.aspnetcore.antiforgery.2.1.1.nupkg.sha512",
     "C:\\Users\\welde\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.1\\microsoft.aspnetcore.authentication.abstractions.2.1.1.nupkg.sha512",

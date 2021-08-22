@@ -349,10 +349,6 @@ C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\Desa
 C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\DesafioFull.TagHelpers.input.cache
 C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\DesafioFull.TagHelpers.output.cache
 C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\DesafioFull.RazorCoreGenerate.cache
-C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\Razor\Views\Home\About.cshtml.g.cs
-C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\Razor\Views\Home\Contact.cshtml.g.cs
-C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -370,3 +366,8 @@ C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\Desa
 C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\DesafioFull.csproj.CopyComplete
 C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\DesafioFull.exe
 C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\DesafioFull.pdb
+C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\bin\Debug\net461\libman.json
+C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\welde\Desktop\DesafioFULL\DesafioFull\DesafioFull\obj\Debug\net461\Razor\Views\Home\Privacy.cshtml.g.cs

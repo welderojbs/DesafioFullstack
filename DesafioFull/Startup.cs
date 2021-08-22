@@ -63,7 +63,7 @@ namespace DesafioFull
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=Titulos}/{action=Index}/{id?}");
             });
         }
     }

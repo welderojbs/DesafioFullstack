@@ -18,14 +18,14 @@ namespace DesafioFull.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Aplicação desenvolvida para Teste de uma vaga de Programador Fullstack.";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Minhas informações de contato.";
 
             return View();
         }

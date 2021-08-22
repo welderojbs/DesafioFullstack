@@ -2,6 +2,9 @@
   "version": 3,
   "targets": {
     ".NETFramework,Version=v4.6.1": {
+      "FontAwesome/4.7.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore/2.1.7": {
         "type": "package",
         "dependencies": {
@@ -2597,6 +2600,9 @@
       }
     },
     ".NETFramework,Version=v4.6.1/win7-x86": {
+      "FontAwesome/4.7.0": {
+        "type": "package"
+      },
       "Microsoft.AspNetCore/2.1.7": {
         "type": "package",
         "dependencies": {
@@ -5040,6 +5046,27 @@
     }
   },
   "libraries": {
+    "FontAwesome/4.7.0": {
+      "sha512": "n4H/brfszElyoZ4kmGh8E75uqvLzLvFr3h2PFVdPH1LwUmWIpeqdaW2pcC4oZAhg7sESyObh0IZpAI8COCNeUg==",
+      "type": "package",
+      "path": "fontawesome/4.7.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/Content/font-awesome.css",
+        "Content/Content/font-awesome.min.css",
+        "Content/fonts/FontAwesome.otf",
+        "Content/fonts/fontawesome-webfont.eot",
+        "Content/fonts/fontawesome-webfont.svg",
+        "Content/fonts/fontawesome-webfont.ttf",
+        "Content/fonts/fontawesome-webfont.woff",
+        "Content/fonts/fontawesome-webfont.woff2",
+        "fontawesome.4.7.0.nupkg.sha512",
+        "fontawesome.nuspec",
+        "tools/install.ps1"
+      ]
+    },
     "Microsoft.AspNetCore/2.1.7": {
       "sha512": "WJ8au6vYsXdwEBus9CNVAtaTtcJ6Gwr+s2Sxw6mWq/smxINliIbE68YaD8WDqJbwuyrIHlTEJPS53tyohYL7VQ==",
       "type": "package",
@@ -9897,6 +9924,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.6.1": [
+      "FontAwesome >= 4.7.0",
       "Microsoft.AspNetCore >= 2.1.7",
       "Microsoft.AspNetCore.CookiePolicy >= 2.1.14",
       "Microsoft.AspNetCore.HttpsPolicy >= 2.1.1",
@@ -9950,6 +9978,10 @@
       "net461": {
         "targetAlias": "net461",
         "dependencies": {
+          "FontAwesome": {
+            "target": "Package",
+            "version": "[4.7.0, )"
+          },
           "Microsoft.AspNetCore": {
             "target": "Package",
             "version": "[2.1.7, )"

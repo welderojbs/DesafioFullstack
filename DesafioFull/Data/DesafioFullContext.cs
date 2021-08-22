@@ -14,6 +14,7 @@ namespace DesafioFull.Data
         {
         }
 
-        public DbSet<DesafioFull.Models.Titulos> Titulos { get; set; }
+        public DbSet<Titulos> Titulos   { get; set; }
+        public DbSet<Parcelas> Parcelas { get; set; }
     }
 }
