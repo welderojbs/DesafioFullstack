@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Fv9ScXBZjYCPes5wB/Fmjk4TybNYaXnLlaBF6+Yj+PyK3CfEZfnu+fhHGxb4HwR50+XtFfem0mTxE02oUXDvyQ==",
+  "dgSpecHash": "x1eo6TdFcXnMfVfV1VNjid72+TJ5Aoe7DP8E+33MGtgZVEkgk3sYx/lQ+FaOuG2nEmMlk3OuhijS9KDYu8I3XA==",
   "success": true,
   "projectFilePath": "C:\\Users\\welde\\Desktop\\DesafioFULL\\DesafioFull\\DesafioFull\\DesafioFull.csproj",
   "expectedPackageFiles": [
@@ -116,9 +116,12 @@
     "C:\\Users\\welde\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.utils\\2.1.10\\microsoft.visualstudio.web.codegeneration.utils.2.1.10.nupkg.sha512",
     "C:\\Users\\welde\\.nuget\\packages\\microsoft.visualstudio.web.codegenerators.mvc\\2.1.10\\microsoft.visualstudio.web.codegenerators.mvc.2.1.10.nupkg.sha512",
     "C:\\Users\\welde\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\welde\\.nuget\\packages\\mysqlconnector\\0.42.1\\mysqlconnector.0.42.1.nupkg.sha512",
     "C:\\Users\\welde\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\welde\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
     "C:\\Users\\welde\\.nuget\\packages\\nuget.frameworks\\4.7.0\\nuget.frameworks.4.7.0.nupkg.sha512",
+    "C:\\Users\\welde\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\2.1.1\\pomelo.entityframeworkcore.mysql.2.1.1.nupkg.sha512",
+    "C:\\Users\\welde\\.nuget\\packages\\pomelo.jsonobject\\1.1.1\\pomelo.jsonobject.1.1.1.nupkg.sha512",
     "C:\\Users\\welde\\.nuget\\packages\\remotion.linq\\2.2.0\\remotion.linq.2.2.0.nupkg.sha512",
     "C:\\Users\\welde\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\welde\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",

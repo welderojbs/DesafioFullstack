@@ -10,7 +10,7 @@ namespace DesafioFull.Models
         public int      Id              { get; set; }
         public int      NumeroTitulo    { get; set; }
         public string   Nome            { get; set; }
-        public int      Cpf             { get; set; }
+        public string   Cpf             { get; set; }
         public decimal  Juros           { get; set; }
         public decimal  Multa           { get; set; }
         public int      NParcela        { get; set; }
